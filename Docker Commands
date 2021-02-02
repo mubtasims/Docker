@@ -10,3 +10,4 @@ docker ps -a (lists running and stopped containers)
 
 docker run *container name and* *version* (pulls image and run container)
 
+docker pull (pulls the image from repo to local computer)
