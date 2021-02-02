@@ -3,3 +3,7 @@ docker ps (list running containers)
 docker run (start container with a command)
 
 docker stop *container id* (stops the container)
+
+docker start *container id* (starts the container)
+
+docker ps -a (lists running and stopped containers)
