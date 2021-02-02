@@ -1,1 +1,5 @@
+docker ps (list running containers)
 
+docker run (start container with a command)
+
+docker stop *container id* (stops the container)
