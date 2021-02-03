@@ -19,3 +19,5 @@ docker run -d -p *port host*:*port of container*  (bind port of host to containe
 docker logs *container id* (to get the logs)
 
 docker run -d -p port host:port of container - -name (to rename a container)
+
+docker network ls (list all the network)
