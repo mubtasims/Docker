@@ -24,3 +24,4 @@ docker network ls (list all the network)
 
 docker network create name of network (creating a network)
 
+docker images (list all the docker images)
